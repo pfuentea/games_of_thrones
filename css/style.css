@@ -1,0 +1,27 @@
+img{
+    width: 250px;
+    height: 300px;
+    z-index: 2;
+    opacity: 0.8;
+
+}
+#info{
+    border-radius: 5px;
+    border: 2px solid black;
+    z-index: 2;
+    position: relative;
+    background-color: blanchedalmond;
+    opacity: 0.8;
+}
+.container{
+    background-image: url("../img/game-of-thrones-poster.jpg");
+    background-size: 80%;
+    background-repeat:no-repeat;
+    opacity: 0.9;
+    background-position: center;
+    z-index: 13;
+    height: 500px
+}
+h2{
+    color:white;
+}
